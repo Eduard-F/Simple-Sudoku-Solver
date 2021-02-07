@@ -7,7 +7,7 @@ Simple Sudoku Solver
 ## Commands
 | Command         | Description       |
 | --------------- | ----------------- |
-| `node index.js` | run sudoko solver |
+| `node index.js` | run sudoku solver |
 
 ## Todo
 - Don't stop at only one solution, get all possible solutions (brute forcing might be better for this)
